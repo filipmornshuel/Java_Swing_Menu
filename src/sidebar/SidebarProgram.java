@@ -77,9 +77,6 @@ public class SidebarProgram {
     }
 
 
-
-
-
     public static void main(String[] args) {
         new SidebarProgram();
     }
